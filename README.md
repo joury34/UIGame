@@ -6,14 +6,20 @@ The following main elements create the first scene which was created using the p
 **Overview of the Scene:**
 
 Play, Settings, and Quit buttons
+
 Visuals: Simple user interface with anamated UI element  and pixel-style typeface
+
 Assets: Screenshots of the given user interface that have been edited by removing the background and text.
+
 
 UI Source: Screenshots were extracted from the given user interface. To separate the button borders and design features, the background and text were eliminated.
 
+
 Font: Pixelyfy Sans was used for all button text.
 
+
 Borders: For a clean overlay effect, the background was eliminated from the button border image that was taken from the same screenshot.
+
 
 --
 
