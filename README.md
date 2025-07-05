@@ -19,9 +19,7 @@ Font: Pixelyfy Sans was used for all button text.
 
 
 Borders: For a clean overlay effect, the background was eliminated from the button border image that was taken from the same screenshot.
-
-
---
+---
 
 **Scripts**
 
